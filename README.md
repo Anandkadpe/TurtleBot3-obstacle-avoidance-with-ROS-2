@@ -1,9 +1,6 @@
 # 🐢 TurtleBot3 Obstacle Avoidance (ROS 2)
 A simple ROS 2 project to simulate obstacle avoidance behavior for TurtleBot3 using LiDAR data in the Gazebo simulation environment.
 
-![2025-05-0516-41-19-ezgif com-video-to-gif-converter (1)]
-
-
 ## 📦 Features
 - Obstacle detection using /scan (LaserScan) data
 - Simple reactive avoidance using velocity commands
