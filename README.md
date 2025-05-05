@@ -19,7 +19,7 @@ A simple ROS 2 project to simulate obstacle avoidance behavior for TurtleBot3 us
    
   	```
    cd ~/ros2_ws/src
-   git clone https://github.com/your-username/turtlebot3_obstacle_avoidance.git
+   git clone https://github.com/Anandkadpe/TurtleBot3-obstacle-avoidance-with-ROS-2.git
    cd ..
    colcon build
    source install/setup.bash
